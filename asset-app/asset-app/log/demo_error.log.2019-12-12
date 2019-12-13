@@ -1,0 +1,8 @@
+[ERROR] [2019-12-12 23:42:03] org.fisco.bcos.channel.client.Service.run(349) | system error 
+javax.net.ssl.SSLException: Failed to initialize the client-side SSLContext: class path resource [ca.crt] cannot be opened because it does not exist
+	at org.fisco.bcos.channel.handler.ChannelConnections.initSslContextForConnect(ChannelConnections.java:468)
+	at org.fisco.bcos.channel.handler.ChannelConnections.startConnect(ChannelConnections.java:395)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:312)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:38)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:164)

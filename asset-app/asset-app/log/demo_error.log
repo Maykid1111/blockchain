@@ -1,0 +1,85 @@
+[ERROR] [2019-12-13 00:22:06] org.fisco.bcos.channel.client.Service.run(349) | system error 
+javax.net.ssl.SSLException: Failed to initialize the client-side SSLContext: class path resource [ca.crt] cannot be opened because it does not exist
+	at org.fisco.bcos.channel.handler.ChannelConnections.initSslContextForConnect(ChannelConnections.java:468)
+	at org.fisco.bcos.channel.handler.ChannelConnections.startConnect(ChannelConnections.java:395)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:312)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:38)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:164)
+[ERROR] [2019-12-13 00:28:38] org.fisco.bcos.channel.client.Service.run(349) | system error 
+javax.net.ssl.SSLException: Failed to initialize the client-side SSLContext: class path resource [ca.crt] cannot be opened because it does not exist
+	at org.fisco.bcos.channel.handler.ChannelConnections.initSslContextForConnect(ChannelConnections.java:468)
+	at org.fisco.bcos.channel.handler.ChannelConnections.startConnect(ChannelConnections.java:395)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:312)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:38)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:164)
+[ERROR] [2019-12-13 00:33:19] org.fisco.bcos.channel.client.Service.run(349) | system error 
+javax.net.ssl.SSLException: Failed to initialize the client-side SSLContext: class path resource [ca.crt] cannot be opened because it does not exist
+	at org.fisco.bcos.channel.handler.ChannelConnections.initSslContextForConnect(ChannelConnections.java:468)
+	at org.fisco.bcos.channel.handler.ChannelConnections.startConnect(ChannelConnections.java:395)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:312)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:38)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:164)
+[ERROR] [2019-12-13 00:37:51] org.fisco.bcos.channel.client.Service.run(349) | system error 
+javax.net.ssl.SSLException: Failed to initialize the client-side SSLContext: class path resource [ca.crt] cannot be opened because it does not exist
+	at org.fisco.bcos.channel.handler.ChannelConnections.initSslContextForConnect(ChannelConnections.java:468)
+	at org.fisco.bcos.channel.handler.ChannelConnections.startConnect(ChannelConnections.java:395)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:312)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:38)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:164)
+[ERROR] [2019-12-13 00:55:14] org.fisco.bcos.channel.client.Service.run(349) | system error 
+javax.net.ssl.SSLException: Failed to initialize the client-side SSLContext: class path resource [ca.crt] cannot be opened because it does not exist
+	at org.fisco.bcos.channel.handler.ChannelConnections.initSslContextForConnect(ChannelConnections.java:468)
+	at org.fisco.bcos.channel.handler.ChannelConnections.startConnect(ChannelConnections.java:395)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:312)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:38)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:164)
+[ERROR] [2019-12-13 01:04:24] org.fisco.bcos.channel.client.Service.run(349) | system error 
+javax.net.ssl.SSLException: Failed to initialize the client-side SSLContext: class path resource [ca.crt] cannot be opened because it does not exist
+	at org.fisco.bcos.channel.handler.ChannelConnections.initSslContextForConnect(ChannelConnections.java:468)
+	at org.fisco.bcos.channel.handler.ChannelConnections.startConnect(ChannelConnections.java:395)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:312)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:38)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:164)
+[ERROR] [2019-12-13 01:42:20] org.fisco.bcos.channel.client.Service.run(349) | system error 
+javax.net.ssl.SSLException: Failed to initialize the client-side SSLContext: class path resource [ca.crt] cannot be opened because it does not exist
+	at org.fisco.bcos.channel.handler.ChannelConnections.initSslContextForConnect(ChannelConnections.java:468)
+	at org.fisco.bcos.channel.handler.ChannelConnections.startConnect(ChannelConnections.java:395)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:312)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:38)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:164)
+[ERROR] [2019-12-13 02:55:16] org.fisco.bcos.channel.client.BcosResponseCallback.onTimeout(17) | Processing bcos message timeout:{}
+[ERROR] [2019-12-13 02:55:16] org.fisco.bcos.channel.client.BcosResponseCallback.onTimeout(17) | Processing bcos message timeout:{}
+[ERROR] [2019-12-13 02:55:17] org.fisco.bcos.channel.client.BcosResponseCallback.onTimeout(17) | Processing bcos message timeout:{}
+[ERROR] [2019-12-13 02:55:17] org.fisco.bcos.channel.client.BcosResponseCallback.onTimeout(17) | Processing bcos message timeout:{}
+[ERROR] [2019-12-13 18:02:55] org.fisco.bcos.channel.client.Service.run(349) | system error 
+java.lang.NullPointerException
+	at org.fisco.bcos.channel.handler.ChannelHandlerContextHelper.getProtocolVersion(ChannelHandlerContextHelper.java:50)
+	at org.fisco.bcos.channel.handler.ChannelHandlerContextHelper.isChannelAvailable(ChannelHandlerContextHelper.java:69)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:321)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UI_cli.<init>(UI_cli.java:55)
+	at org.fisco.bcos.asset.client.UI_cli.main(UI_cli.java:241)
+[ERROR] [2019-12-13 18:39:09] org.fisco.bcos.channel.client.BcosResponseCallback.onTimeout(17) | Processing bcos message timeout:{}
+[ERROR] [2019-12-13 19:31:14] org.fisco.bcos.channel.client.Service.run(349) | system error 
+java.lang.NullPointerException
+	at org.fisco.bcos.channel.handler.ChannelHandlerContextHelper.getProtocolVersion(ChannelHandlerContextHelper.java:50)
+	at org.fisco.bcos.channel.handler.ChannelHandlerContextHelper.isChannelAvailable(ChannelHandlerContextHelper.java:69)
+	at org.fisco.bcos.channel.client.Service.run(Service.java:321)
+	at org.fisco.bcos.asset.client.Test_control.initialize(Test_control.java:82)
+	at org.fisco.bcos.asset.client.UiViewController.<init>(UiViewController.java:41)
+	at org.fisco.bcos.asset.client.UiViewController.main(UiViewController.java:236)
+[ERROR] [2019-12-13 21:27:39] org.fisco.bcos.channel.client.Service.run(337) | connectSeconds = 30
+[ERROR] [2019-12-13 21:27:39] org.fisco.bcos.channel.client.Service.run(338) | can not connect to nodes success, please checkout the node status and the sdk config!
+[ERROR] [2019-12-13 21:27:39] org.fisco.bcos.channel.client.Service.run(349) | system error 
+java.lang.Exception: Can not connect to nodes success, please checkout the node status and the sdk config!
+	at org.fisco.bcos.channel.client.Service.run(Service.java:340)
+	at org.fisco.bcos.asset.client.Web3Contoller.init(Web3Contoller.java:67)
+	at org.fisco.bcos.asset.client.UiViewController.<init>(UiViewController.java:40)
+	at org.fisco.bcos.asset.client.UiViewController.main(UiViewController.java:240)
